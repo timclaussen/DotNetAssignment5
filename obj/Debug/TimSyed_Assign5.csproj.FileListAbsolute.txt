@@ -1,0 +1,10 @@
+C:\Users\Dilbert\source\repos\TimSyed_Assign5\bin\Debug\TimSyed_Assign5.exe.config
+C:\Users\Dilbert\source\repos\TimSyed_Assign5\bin\Debug\TimSyed_Assign5.exe
+C:\Users\Dilbert\source\repos\TimSyed_Assign5\bin\Debug\TimSyed_Assign5.pdb
+C:\Users\Dilbert\source\repos\TimSyed_Assign5\obj\Debug\TimSyed_Assign5.csprojAssemblyReference.cache
+C:\Users\Dilbert\source\repos\TimSyed_Assign5\obj\Debug\TimSyed_Assign5.Form1.resources
+C:\Users\Dilbert\source\repos\TimSyed_Assign5\obj\Debug\TimSyed_Assign5.Properties.Resources.resources
+C:\Users\Dilbert\source\repos\TimSyed_Assign5\obj\Debug\TimSyed_Assign5.csproj.GenerateResource.cache
+C:\Users\Dilbert\source\repos\TimSyed_Assign5\obj\Debug\TimSyed_Assign5.csproj.CoreCompileInputs.cache
+C:\Users\Dilbert\source\repos\TimSyed_Assign5\obj\Debug\TimSyed_Assign5.exe
+C:\Users\Dilbert\source\repos\TimSyed_Assign5\obj\Debug\TimSyed_Assign5.pdb
